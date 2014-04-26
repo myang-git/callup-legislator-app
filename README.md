@@ -13,6 +13,6 @@
 
 * 連結外部參考資料，包括Wikipedia與g0v的立委投票指南。 
 
-* 立委通訊資料可在[https://github.com/myang-git/taiwan-electoral-data取得。](https://github.com/myang-git/taiwan-electoral-data)  
+* 立委通訊資料可在[https://github.com/myang-git/taiwan-electoral-data](https://github.com/myang-git/taiwan-electoral-data)取得。  
 
 
